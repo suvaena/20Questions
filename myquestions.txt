@@ -1,0 +1,11 @@
+Q:Does it bark?
+Q:Does it live in the wild?
+A:Fox
+A:Dog
+Q:Does it hop?
+A:Rabbit
+Q:Is it small?
+A:Hamster
+Q:Does it use the internet?
+A:Laptop
+A:Jedi
