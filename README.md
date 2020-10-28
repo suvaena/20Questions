@@ -1,0 +1,2 @@
+# 20Questions
+I created this code as a part of a school coding class project. This is a spin off of the 20 Questions game. If the computer guesses the user's answer incorrectly they will ask for a question that helps identify the correct answer for the next game and this Q&A gets stored in the question tree node so that it can be asked for in the next game. This game is a great demonstration of AI as it is essentially grrowing the computer as it plays more games with a user. This code was created using Java.
